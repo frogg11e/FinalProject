@@ -3,3 +3,46 @@
 * {
 	font-family: Arial;
 }
+
+.unifrakturmaguntia-regular {
+	font-family: "UnifrakturMaguntia", cursive;
+	font-weight: 400;
+	font-style: normal;
+  }
+  
+  .gentium-book-plus-regular {
+	font-family: "Gentium Book Plus", serif;
+	font-weight: 400;
+	font-style: normal;
+  }
+  
+  .gentium-book-plus-bold {
+	font-family: "Gentium Book Plus", serif;
+	font-weight: 700;
+	font-style: normal;
+  }
+  
+  .gentium-book-plus-regular-italic {
+	font-family: "Gentium Book Plus", serif;
+	font-weight: 400;
+	font-style: italic;
+  }
+  
+  .gentium-book-plus-bold-italic {
+	font-family: "Gentium Book Plus", serif;
+	font-weight: 700;
+	font-style: italic;
+  }
+  
+  h1 {
+	font-family: "UnifrakturMaguntia";
+	font-size: 70px;
+  }
+
+  h4, p {
+font-family: "Gentium Book Plus", serif;
+  }
+
+  p {
+	font-size: 15px;
+  }
