@@ -7,11 +7,12 @@
 
 
 
-.unifrakturmaguntia-regular {
-	font-family: "UnifrakturMaguntia", cursive;
+.tagesschrift-regular {
+	font-family: "Tagesschrift", system-ui;
 	font-weight: 400;
 	font-style: normal;
   }
+  
   
   .gentium-book-plus-regular {
 	font-family: "Gentium Book Plus", serif;
@@ -38,7 +39,7 @@
   }
   
   h1 {
-	font-family: "UnifrakturMaguntia";
+	font-family: "Tagesschrift";
 	font-size: 70px;
   }
 
